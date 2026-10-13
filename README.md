@@ -1,4 +1,4 @@
-# Hi, I'm Rafael Oliveira Lima 👋
+# Hi, I'm Rafael 👋
 
 I am a computer science student and aspiring software engineer based in Brazil, focused on building practical applications, automation tools, and real-world digital products.
 
