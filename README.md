@@ -1,4 +1,4 @@
-# Hi, I'm Rafael 👋
+# i am nxrafa
 
 I am a computer science student and aspiring software engineer based in Brazil, focused on building practical applications, automation tools, and real-world digital products.
 
